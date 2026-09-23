@@ -12,16 +12,6 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I am a **Systems and Informatics Engineering student (8th semester)** at Universidad Pontificia Bolivariana, with hands-on experience across the **software development lifecycle**, from requirements and system design to implementation, testing, deployment, and version control.
-
-My main areas of experience include **backend and full-stack development, cloud computing, databases, Linux environments, and software architecture**. I have worked on academic and applied projects involving transportation management, agricultural monitoring, enterprise CRM/ERP integration, online multiplayer systems, and student academic support.
-
-I enjoy building systems that connect different technologies to solve practical problems and working collaboratively under **Scrum and Git-based workflows**.
-
 ### 🔭 Currently focused on
 
 * Backend and full-stack software development
