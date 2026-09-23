@@ -185,9 +185,6 @@ Software integration project developed as part of the **AUTO-UPB consortium**, i
   <a href="https://www.credly.com/users/luis-fuentes.9cd0dd98" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
-  <a href="mailto:[theweregh@gmail.com](mailto:theweregh@gmail.com)">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
